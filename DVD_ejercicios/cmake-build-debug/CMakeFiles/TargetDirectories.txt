@@ -1,3 +1,0 @@
-D:/2026.2/ALGORITMIA/DVD_ejercicios/cmake-build-debug/CMakeFiles/DVD_ejercicios.dir
-D:/2026.2/ALGORITMIA/DVD_ejercicios/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/2026.2/ALGORITMIA/DVD_ejercicios/cmake-build-debug/CMakeFiles/rebuild_cache.dir
